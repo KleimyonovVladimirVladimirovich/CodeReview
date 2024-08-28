@@ -1,4 +1,4 @@
-package Stack;
+package org.kleimyonov.Stack;
 
 public interface Stack<T> {
     void push(T item); //доб эл на верш стека

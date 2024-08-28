@@ -1,4 +1,4 @@
-package ReflectionAPI;
+package org.kleimyonov.ReflectionAPI;
 
 public class Employee {
     private String name;

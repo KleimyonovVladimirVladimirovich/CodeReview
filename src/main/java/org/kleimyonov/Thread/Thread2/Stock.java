@@ -1,4 +1,4 @@
-package Thread.Thread2;
+package org.kleimyonov.Thread.Thread2;
 import java.util.ArrayList;
 import java.util.List;
 

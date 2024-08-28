@@ -1,4 +1,4 @@
-package Car;
+package org.kleimyonov.Car;
 
 public class Dependency_Injection_CarBMW {
 

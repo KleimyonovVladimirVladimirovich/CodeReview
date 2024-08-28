@@ -1,4 +1,4 @@
-package patterns.factorymethod;
+package org.kleimyonov.patterns.factorymethod;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

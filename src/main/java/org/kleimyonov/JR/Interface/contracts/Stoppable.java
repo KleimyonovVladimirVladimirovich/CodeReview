@@ -1,4 +1,4 @@
-package JR.Interface.contracts;
+package org.kleimyonov.JR.Interface.contracts;
 //Это функциональный интерфейс
 @FunctionalInterface
 public interface Stoppable {

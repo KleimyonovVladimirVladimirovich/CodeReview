@@ -1,4 +1,4 @@
-package Tree;
+package org.kleimyonov.Tree;
 
 public class TreeTest {
 

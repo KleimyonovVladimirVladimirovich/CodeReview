@@ -1,4 +1,4 @@
-package ReflectionAPI.ReflectionAPINext;
+package org.kleimyonov.ReflectionAPI.ReflectionAPINext;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

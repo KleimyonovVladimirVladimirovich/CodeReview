@@ -1,4 +1,4 @@
-package Thread.ThreadPoolExecutors4.ThreadPool;
+package org.kleimyonov.Thread.ThreadPoolExecutors4.ThreadPool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

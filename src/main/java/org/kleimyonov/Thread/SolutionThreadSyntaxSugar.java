@@ -1,4 +1,4 @@
-package Thread;
+package org.kleimyonov.Thread;
 
 public class SolutionThreadSyntaxSugar {
     public static void main(String[] args) {

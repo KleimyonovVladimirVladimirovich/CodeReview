@@ -1,4 +1,4 @@
-package JR.Generics;
+package org.kleimyonov.JR.Generics;
 
 public class Generics<T> {
 

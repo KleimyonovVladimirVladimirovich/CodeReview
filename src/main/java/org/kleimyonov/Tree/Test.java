@@ -1,7 +1,4 @@
-package Tree;
-
-import Stack.SimpleQueue;
-import Stack.SimpleStack;
+package org.kleimyonov.Tree;
 
 public class Test {
 

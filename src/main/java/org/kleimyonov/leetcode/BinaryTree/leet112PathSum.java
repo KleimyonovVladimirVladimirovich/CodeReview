@@ -1,4 +1,4 @@
-package leetcode.BinaryTree;
+package org.kleimyonov.leetcode.BinaryTree;
 
 public class leet112PathSum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JR.Lambda;
+package org.kleimyonov.JR.Lambda;
 
 public class Car {
      Color color;

@@ -1,4 +1,4 @@
-package ReflectionAPI;
+package org.kleimyonov.ReflectionAPI;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

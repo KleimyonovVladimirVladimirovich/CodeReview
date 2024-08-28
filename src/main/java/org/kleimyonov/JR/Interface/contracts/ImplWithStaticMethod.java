@@ -1,4 +1,4 @@
-package JR.Interface.contracts;
+package org.kleimyonov.JR.Interface.contracts;
 //сатические интерфейсы враг ООП
 public interface ImplWithStaticMethod {
     String s = "smtnk"; //авто. помечен как public static final

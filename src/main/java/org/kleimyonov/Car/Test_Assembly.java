@@ -1,4 +1,4 @@
-package Car;
+package org.kleimyonov.Car;
 
 public class Test_Assembly {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Stack;
+package org.kleimyonov.Stack;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package JR;
+package org.kleimyonov.JR;
 
 import java.sql.SQLOutput;
 

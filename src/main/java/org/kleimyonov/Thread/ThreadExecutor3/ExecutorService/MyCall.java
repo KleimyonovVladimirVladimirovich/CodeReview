@@ -1,4 +1,4 @@
-package Thread.ThreadExecutor3.ExecutorService;
+package org.kleimyonov.Thread.ThreadExecutor3.ExecutorService;
 
 import java.util.concurrent.Callable;
 import java.util.stream.Stream;

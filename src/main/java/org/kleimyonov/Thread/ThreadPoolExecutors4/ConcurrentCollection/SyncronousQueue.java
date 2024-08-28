@@ -1,4 +1,4 @@
-package Concurrent;
+package org.kleimyonov.Thread.ThreadPoolExecutors4.ConcurrentCollection;
 
 import java.util.concurrent.SynchronousQueue;
 

@@ -1,4 +1,4 @@
-package JR;
+package org.kleimyonov.JR;
 
 public class Entity {
     public long getId() {

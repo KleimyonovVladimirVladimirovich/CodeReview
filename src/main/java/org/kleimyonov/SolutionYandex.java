@@ -1,3 +1,5 @@
+package org.kleimyonov;
+
 import com.sun.source.doctree.EscapeTree;
 
 import java.io.*;

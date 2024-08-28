@@ -1,4 +1,4 @@
-package ReflectionAPI;
+package org.kleimyonov.ReflectionAPI;
 
 import java.util.ArrayList;
 import java.util.List;

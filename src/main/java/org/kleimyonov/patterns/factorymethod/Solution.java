@@ -1,4 +1,4 @@
-package patterns.factorymethod;
+package org.kleimyonov.patterns.factorymethod;
 
 public class Solution {
 

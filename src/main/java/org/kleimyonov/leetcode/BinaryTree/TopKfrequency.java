@@ -1,4 +1,4 @@
-package leetcode.BinaryTree;
+package org.kleimyonov.leetcode.BinaryTree;
 
 import java.util.*;
 

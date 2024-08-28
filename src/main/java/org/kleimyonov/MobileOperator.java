@@ -1,3 +1,5 @@
+package org.kleimyonov;
+
 public class MobileOperator {
     public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);

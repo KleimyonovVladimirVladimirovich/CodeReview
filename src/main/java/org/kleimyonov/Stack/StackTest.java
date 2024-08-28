@@ -1,4 +1,4 @@
-package Stack;
+package org.kleimyonov.Stack;
 
 public class StackTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package SortAlgoritms;
+package org.kleimyonov.SortAlgoritms;
 
 import java.util.Arrays;
 

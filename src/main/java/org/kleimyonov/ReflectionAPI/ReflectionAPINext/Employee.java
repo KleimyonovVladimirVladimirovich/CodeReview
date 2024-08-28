@@ -1,4 +1,4 @@
-package ReflectionAPI.ReflectionAPINext;
+package org.kleimyonov.ReflectionAPI.ReflectionAPINext;
 
 public class Employee {
     private String name;

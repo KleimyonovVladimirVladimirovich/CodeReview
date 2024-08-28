@@ -1,4 +1,4 @@
-package JR.Lambda;
+package org.kleimyonov.JR.Lambda;
 
 import java.util.Comparator;
 import java.util.function.Function;

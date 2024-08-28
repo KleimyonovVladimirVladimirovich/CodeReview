@@ -1,4 +1,4 @@
-package Sockets;
+package org.kleimyonov.Sockets;
 
 import java.io.*;
 import java.net.BindException;

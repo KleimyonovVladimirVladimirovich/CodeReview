@@ -1,4 +1,4 @@
-package Stack;
+package org.kleimyonov.Stack;
 
 public interface Queue<T> {
     void add(T item); //Добавляем эл в конец очереди

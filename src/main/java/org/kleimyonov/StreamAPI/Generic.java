@@ -1,4 +1,4 @@
-package StreamAPI;
+package org.kleimyonov.StreamAPI;
 
 public class Generic {
 }

@@ -1,4 +1,4 @@
-package Thread;
+package org.kleimyonov.Thread;
 
 import javax.management.loading.ClassLoaderRepository;
 

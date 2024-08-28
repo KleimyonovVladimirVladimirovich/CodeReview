@@ -1,4 +1,4 @@
-package Method;
+package org.kleimyonov.Method;
 
 public class Engineer extends Developer{
 

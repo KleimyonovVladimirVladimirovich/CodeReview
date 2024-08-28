@@ -1,4 +1,4 @@
-package StreamAPI;
+package org.kleimyonov.StreamAPI;
 
 import java.util.ArrayList;
 import java.util.List;

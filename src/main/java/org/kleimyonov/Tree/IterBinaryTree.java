@@ -1,7 +1,9 @@
-package Tree;
+package org.kleimyonov.Tree;
 
-import Stack.SimpleQueue;
-import Stack.SimpleStack;
+
+
+import org.kleimyonov.Stack.SimpleQueue;
+import org.kleimyonov.Stack.SimpleStack;
 
 import java.util.LinkedList;
 import java.util.List;

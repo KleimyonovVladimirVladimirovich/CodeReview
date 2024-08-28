@@ -1,4 +1,4 @@
-package JR.Interface;
+package org.kleimyonov.JR.Interface;
 
 import JR.Interface.contracts.ImplWithStaticMethod;
 import JR.Interface.contracts.Interface;
