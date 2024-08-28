@@ -1,6 +1,7 @@
 package org.kleimyonov.JR.Interface;
 
-import JR.Interface.contracts.Interface;
+
+import org.kleimyonov.JR.Interface.contracts.Interface;
 
 public class Move implements Interface {
 

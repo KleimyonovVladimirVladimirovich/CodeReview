@@ -1,7 +1,8 @@
 package org.kleimyonov.JR.Interface;
 
-import JR.Interface.contracts.Interface;
-import JR.Interface.contracts.Sellable;
+
+import org.kleimyonov.JR.Interface.contracts.Interface;
+import org.kleimyonov.JR.Interface.contracts.Sellable;
 
 import java.io.Serializable;
 

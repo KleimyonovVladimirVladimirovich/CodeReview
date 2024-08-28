@@ -1,8 +1,9 @@
 package org.kleimyonov.JR.Interface;
 
-import JR.Interface.contracts.ImplWithStaticMethod;
-import JR.Interface.contracts.Interface;
-import JR.Interface.contracts.Stoppable;
+
+import org.kleimyonov.JR.Interface.contracts.ImplWithStaticMethod;
+import org.kleimyonov.JR.Interface.contracts.Interface;
+import org.kleimyonov.JR.Interface.contracts.Stoppable;
 
 public class Solution{
 
