@@ -19,7 +19,6 @@ public class DeveloperRunTime {
     }
 
 
-    //выдумал чушь ниже
     public static void Run(Developer dev, Developer filldev) {
         System.out.println(dev);
         System.out.println(filldev);
